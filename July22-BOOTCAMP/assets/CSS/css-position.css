@@ -1,0 +1,30 @@
+.static{
+    border: 3px solid green;
+    position: static;
+}
+
+.red-box{
+    border: 3px solid red;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 20px;
+    /*画面端からどれくらい離れているか*/
+
+}
+
+.parent{
+    width: 250px;
+    height: 150px;
+    border: 2px solid green;
+    position: relative;
+}
+
+.child{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    position: absolute;
+    left: 50%; /*location*/
+    bottom: 10px; /*0なら線にくっついている*/
+}

@@ -1,0 +1,25 @@
+.hidden{
+    background-color: cornflowerblue;
+    border: 1px solid #ccc;
+    width: 30%;
+    height: 100px;
+    overflow: hidden;
+    padding: 10px;
+    margin: 20px;
+}
+
+.scroll{
+    background-color: cornflowerblue;
+    border: 1px solid #ccc;
+    width: 30%;
+    height: 100px;
+    overflow: scroll;
+    padding: 10px;
+    margin: 20px;
+}
+
+.box-shadow{
+    margin: 300px;
+    border:1px solid black;
+    box-shadow:10px 10px 15px 20px red;
+}

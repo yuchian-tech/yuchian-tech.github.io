@@ -1,0 +1,65 @@
+/* Color */
+h1{
+    color:rgb(239, 68, 97);
+    font-family: serif;
+    font-size: 35px;
+    font-weight: 600;
+  }
+  p{
+    color: rgba(0,0,255,.5);
+    font-family: sans-serif;
+    font-size: 1em;
+  }
+  h2{
+    color:#5dff;
+    font-family: monospace;
+    font-size: 5%;
+  }
+  .font-weight-bold{
+    font-weight: bold;
+  }
+  .font-weight-500{
+    font-weight: 500;
+  }
+  /* font-style */
+  .italic{
+    font-style:italic;
+    text-transform: lowercase;
+    text-decoration: underline;
+  }
+  .oblique{
+    font-style: oblique;
+    text-transform: uppercase;
+    text-decoration: line-through;
+  }
+  .normal{
+    font-style: normal;
+    text-transform: capitalize;
+    text-decoration: overline;
+  }
+  .center{
+    text-align: center;
+    text-shadow: 2px 2px 4px #961204;
+  }
+  .right{
+    text-align: right;
+  }
+  .left{
+    text-align: left;
+  }
+  .text-indent-px{
+    text-indent: 50px;
+  }
+  .text-indent-percent{
+    text-indent: 5%;
+  }
+  .text-indent-em{
+    text-indent: 5em;
+  }
+  .letter-space-5px{
+    font-size: 30px;
+    letter-spacing: 5px;
+  }
+  .word-spacing{
+    word-spacing: 10px;
+  }

@@ -1,0 +1,23 @@
+ul li{
+    display: inline;
+}
+
+a{
+    background-color: cornflowerblue;
+    display: block;
+}}
+
+span{
+    display: none;
+}
+
+img{
+    width: 50%;
+    position: absolute
+    left: 0px;
+    top: 0px
+    z-index: -1
+    /*you put into the webpage under the image.
+
+
+}

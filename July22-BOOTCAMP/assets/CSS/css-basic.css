@@ -1,0 +1,28 @@
+h1 {
+    background: tomato;
+}
+*{
+    color: red;
+}
+p {
+    text-align: left;
+    background-color: white;
+}
+.p1 {
+    background-color: yellow;
+}
+#id-name{
+    font-style: italic;
+    color: black;
+}
+
+h2 .h2 {
+    text-align: center;
+}
+h2{
+    text-align: right;
+}
+<!--class がなければ、ul li {} >
+.parent {
+    color: white;
+}
